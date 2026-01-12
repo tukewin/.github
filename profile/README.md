@@ -27,4 +27,4 @@ Our projects are built with an emphasis on stability, scalability, and clear own
 
 ## Background
 
-TukeWIN is led by a full-stack developers with experience delivering and operating complex systems, currently operating multiple full-stack platforms for B2B clients.
+TukeWIN is led by full-stack developers with experience delivering and operating complex systems, currently operating multiple full-stack platforms for B2B clients.
